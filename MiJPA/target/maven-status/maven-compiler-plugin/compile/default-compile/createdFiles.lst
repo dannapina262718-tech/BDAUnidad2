@@ -1,3 +1,10 @@
-com\mycompany\mijpa\MiJPA$operacionesPrueba.class
-Persistencia\AlumnoEntidad.class
+interfaces\IConexionDB.class
+Persistencia\NaveEntidad.class
+interfaces\IAlumnoDAO.class
+Persistencia\VueloEntidad.class
 com\mycompany\mijpa\MiJPA.class
+com\mycompany\mijpa\MiJPA$operacionesPrueba.class
+Excepciones\PersistenciaException.class
+implementaciones\AlumnoDAO.class
+Persistencia\AlumnoEntidad.class
+implementaciones\ConexionBD.class

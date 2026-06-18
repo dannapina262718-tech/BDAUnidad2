@@ -1,2 +1,9 @@
-C:\Users\USUARIO\Documents\NetBeansProjects\BDAUnidad2\MiJPA\src\main\java\com\mycompany\mijpa\MiJPA.java
-C:\Users\USUARIO\Documents\NetBeansProjects\BDAUnidad2\MiJPA\src\main\java\Persistencia\AlumnoEntidad.java
+C:\Users\LABORATORIOS\Documents\NetBeansProjects\BDAUnidad2\MiJPA\src\main\java\com\mycompany\mijpa\MiJPA.java
+C:\Users\LABORATORIOS\Documents\NetBeansProjects\BDAUnidad2\MiJPA\src\main\java\Excepciones\PersistenciaException.java
+C:\Users\LABORATORIOS\Documents\NetBeansProjects\BDAUnidad2\MiJPA\src\main\java\implementaciones\AlumnoDAO.java
+C:\Users\LABORATORIOS\Documents\NetBeansProjects\BDAUnidad2\MiJPA\src\main\java\implementaciones\ConexionBD.java
+C:\Users\LABORATORIOS\Documents\NetBeansProjects\BDAUnidad2\MiJPA\src\main\java\interfaces\IAlumnoDAO.java
+C:\Users\LABORATORIOS\Documents\NetBeansProjects\BDAUnidad2\MiJPA\src\main\java\interfaces\IConexionDB.java
+C:\Users\LABORATORIOS\Documents\NetBeansProjects\BDAUnidad2\MiJPA\src\main\java\Persistencia\AlumnoEntidad.java
+C:\Users\LABORATORIOS\Documents\NetBeansProjects\BDAUnidad2\MiJPA\src\main\java\Persistencia\NaveEntidad.java
+C:\Users\LABORATORIOS\Documents\NetBeansProjects\BDAUnidad2\MiJPA\src\main\java\Persistencia\VueloEntidad.java

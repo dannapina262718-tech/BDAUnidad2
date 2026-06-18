@@ -105,9 +105,9 @@ public class MiJPA {
         
         operacionesPrueba operaciones = new operacionesPrueba();
         
-//        //guardar
-//
-//        operaciones.guardarAlumno("Danna Sofia ", "Piña", "Ibarra");
+        //guardar
+
+        operaciones.guardarAlumno("Danna Sofia ", "Piña", "Ibarra");
 
         //consultar
         operaciones.consulatrPorId(1);
