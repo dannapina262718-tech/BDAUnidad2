@@ -24,7 +24,7 @@ public class AlumnoEntidad implements Serializable {
     private String nombre;
     @Column(name = "apellidoPaterno", nullable = false, length = 50)
     private String apellidoPaterno;
-    @Column(name = "apellidoPaterno", nullable = false, length = 50)
+    @Column(name = "apellidoMaterno", nullable = false, length = 50)
     private String apellidoMaterno;
     @Column(name = "esActivo", nullable = false)
     private boolean esActivo;
