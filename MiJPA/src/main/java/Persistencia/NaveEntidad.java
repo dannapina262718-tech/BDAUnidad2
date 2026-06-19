@@ -3,6 +3,7 @@ package Persistencia;
 
 import java.io.Serializable;
 import java.util.List;
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -23,7 +24,7 @@ public class NaveEntidad implements Serializable {
     @GeneratedValue (strategy = GenerationType.IDENTITY)
     private Long id;
     
-    @OneToMany(mappedBy = "nave")
+    @OneToMany(mappedBy = "nave", cascade = {CascadeType.PERSIST})
     private List<VueloEntidad> vuelos;
     
     @Column (name = "nombre", nullable = false, length = 50)
